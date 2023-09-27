@@ -1,7 +1,26 @@
 # Vaultexe software engineering diagrams
 
-## Diagrams
+## Table of contents
 
-### Vaultexe ERD
+- [📁 DBMS ERD](#-erd)
+- [📚 Use case diagrams](#-use-case-diagrams)
 
-![Vaultexe ERD](./erd.drawio.svg)
+---
+
+### 📁 ERD
+
+#### **1.** Vaultexe RDM
+
+![Vaultexe RDM](./erd/rdm.drawio.png)
+
+---
+
+### 📚 Use case diagrams
+
+#### **1.** Registeration
+
+![Registeration](./usecase/01_registeration.drawio.png)
+
+#### **2.** Login
+
+![Login](./usecase/02_login.drawio.png)
